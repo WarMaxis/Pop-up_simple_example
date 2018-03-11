@@ -6,7 +6,7 @@ A little bit of CSS and tiny JavaScript.
 
 __Working on >= IE 10! :-)__
 
-Check this on __[https://warmaxis.github.io/hangman_game/](https://warmaxis.github.io/hangman_game/)__
+Check this on __[https://warmaxis.github.io/Pop-up_simple_example/](https://warmaxis.github.io/Pop-up_simple_example/)__
 
 Coded by __[Michał Milanowski](https://www.linkedin.com/in/michalmilanowski/)__
 
