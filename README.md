@@ -1,6 +1,6 @@
 # Pop-up simple example
 
-Simple example of pop-up, with closing button, fade-in-out animations and center position (vertical and horizontal) on web page.
+Simple example of pop-up, with closing button, fade-in-out animations, responsive and center position (vertical and horizontal) on web page.
 
 A little bit of CSS and tiny JavaScript.
 
@@ -15,3 +15,4 @@ Coded by __[Michał Milanowski](https://www.linkedin.com/in/michalmilanowski/)__
 * __HTML__
 * __CSS__
 * __JavaScript__
+* __RWD__
